@@ -67,6 +67,27 @@ main {
 
 }
 
-.nos {font-size: 6rem;
+.nos {
+     font-size: 6rem;
 
+}
+
+.texto1 { 
+    font-size: 4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white
+    
+}
+
+#navbarNavDropdown { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 8rem;
+}
+
+.fondoform {
+
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
 }

@@ -1,0 +1,72 @@
+/* reset estilos */
+* {
+      margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+nav {
+    background-color: #0b5394;
+    justify-content: space-between;
+}
+
+
+header {
+    align-items: top;
+    border: 4rem;
+}
+
+body { 
+    height: 100vh;
+    width: 100vw;
+    background-image: url(./img/imagenfondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.active { 
+    font-size: 4rem;
+}
+
+.contacto {
+    font-size: 4rem;
+}
+
+.plataforma {
+    font-size: 4rem;
+}
+
+.sobrenosotros {
+    font-size: 4rem;
+
+}
+
+.almacenamiento {
+    font-size: 2rem;
+}
+
+.recursoslog {
+    font-size: 2rem;
+}
+
+.rrhh {
+    font-size: 2rem;
+}
+
+main {
+    font-size: 4rem;
+
+}
+
+.nos {font-size: 6rem;
+
+}

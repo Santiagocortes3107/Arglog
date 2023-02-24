@@ -68,7 +68,9 @@ main {
 }
 
 .nos {
+    background-color: black;
      font-size: 6rem;
+     color: white;
 
 }
 
@@ -86,8 +88,81 @@ main {
 }
 
 .fondoform {
-
+    width: 60%;
+    height: 60%;
+    font-size: 4rem;
     background-color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
+}
+
+.pw{ 
+    font-size: 2rem;
+}
+
+.pww{ 
+    font-size: 3rem;
+}
+
+.nunca { 
+    font-size: 2rem;
+    color: blanchedalmond;
+}
+
+.asunt {
+    font-size: 2rem;
+    color: black;
+}
+
+.barra {    font-size: 4rem;
+    color: white;
+    justify-content: space-around;
+
+}
+
+.enque { 
+    font-size: 3rem;
+
+}
+
+.ingresotexto{ 
+    font-size: 3rem;
+}
+
+.reclog {
+    background-color: black;
+    text-align: center center;
+    color: white;
+}
+
+.titutlo {
+    font-size: 6rem;
+}
+
+.h1t {
+    font-size: 6rem;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.objetivo1 { 
+    font-size: 6rem;
+    color: black;
+}
+
+.almacena {
+    font-size: 6rem;
+    background-color: black;
+    color: white;
+}
+
+.principios1 { 
+    font-size: 6rem;
+    color: black;
+}
+
+.futuro1 { 
+    font-size: 6rem;
+    color: black;
 }
